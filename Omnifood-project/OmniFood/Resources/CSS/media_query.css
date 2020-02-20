@@ -1,0 +1,136 @@
+
+/* up to 1200p */
+@media only screen and (max-width: 1200px) {
+	.hero-text-box {
+	width: 100%;
+	padding: 0 2%;
+	}
+	
+	.cities img {
+		width: 230px;
+		height: 230px;
+	}
+}
+
+
+
+/* up to 1024p  */
+@media only screen and (max-width: 1024px) {
+	body {font-size: 18px}
+	section {padding: 60px 0}
+	.long-copy {
+		width: 80%;
+		margin-left: 10%;
+	}
+	
+	.steps-box {
+		margin-top: 10px;
+	}
+	
+	.steps-box:last-child {
+		margin-top: 10px;
+	}
+	
+	.app-screen {
+		width: 45%
+	}
+	
+	.work-step {
+		margin-bottom: 40px;
+	}
+	
+	.work-step:last-of-type {
+		margin-bottom: 80px;
+	}
+	
+	.cities img {
+		width: 200px;
+		height: 200px;
+	}
+	
+	.logo-white {
+		margin-left: 10px;
+	}
+	
+	.sec-testemonials blockquote {
+		margin-left: 10px
+	}
+}
+
+
+
+/* up to 768p*/
+@media only screen and (max-width: 767px) {
+	body {
+		font-size: 16px;
+	}
+	
+	.col {
+		display: block;
+		float:left;
+		margin: 0 0 4% 0;
+		width: 100%;
+}
+	
+	section {
+		padding: 30px 0;
+	}
+	
+	.row, .hero-text-box {
+		padding: 0 4%;
+	}
+	
+	.col {
+		width: 100%;
+	}
+	
+	.main-nav {
+		display: none;
+	}
+	
+	h2 {
+		font-size: 130%;
+	}
+	
+	.steps-box {
+		margin-top: 10px;
+	}
+	
+	.steps-box:last-child {
+		margin-top: 10px;
+	}
+	
+	.app-screen {
+		width: 55%;
+		margin-right: 80px;
+		margin-bottom: 20px;
+	}
+	
+	.work-step {
+		margin-bottom: 40px;
+	}
+	
+	.work-step:last-of-type {
+		margin-bottom: 50px;
+		text-align: center
+	}
+	
+	.cities img {
+		width: 300px;
+		height: 300px;
+		margin-left: 70px;
+	}
+	
+	.footer-nav {
+		float: right;
+	}
+	
+	.social-links {
+		margin-top: 30px;
+		margin-right: 80px;
+	}
+
+/* up to  */
+@media only screen and (max-width: 1439px) {
+	
+}
